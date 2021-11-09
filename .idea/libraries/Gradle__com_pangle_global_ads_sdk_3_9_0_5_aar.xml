@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pangle.global:ads-sdk:3.9.0.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/44760ea0729df27e11546fd87c4a6c12/jetified-ads-sdk-3.9.0.5/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/44760ea0729df27e11546fd87c4a6c12/jetified-ads-sdk-3.9.0.5/jars/libs/r-classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/44760ea0729df27e11546fd87c4a6c12/jetified-ads-sdk-3.9.0.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/44760ea0729df27e11546fd87c4a6c12/jetified-ads-sdk-3.9.0.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

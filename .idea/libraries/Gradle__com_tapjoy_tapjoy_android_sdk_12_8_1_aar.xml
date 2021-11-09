@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tapjoy:tapjoy-android-sdk:12.8.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5921b2b94e892e594fd0848769541257/jetified-tapjoy-android-sdk-12.8.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5921b2b94e892e594fd0848769541257/jetified-tapjoy-android-sdk-12.8.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5921b2b94e892e594fd0848769541257/jetified-tapjoy-android-sdk-12.8.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
